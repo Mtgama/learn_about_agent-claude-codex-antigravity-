@@ -4,9 +4,9 @@
 
 **مجموعه کتابچه‌های آموزشی کار با ایجنت‌های کدنویسی هوش مصنوعی**
 
-[![GitHub release](https://img.shields.io/github/v/release/Mtgama/learn_about_agent-claude-codex-antigravity-?style=flat-square&label=نسخه)](https://github.com/Mtgama/learn_about_agent-claude-codex-antigravity-/releases)
+
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/Mtgama/learn_about_agent-claude-codex-antigravity-/total?style=flat-square)](https://github.com/Mtgama/learn_about_agent-claude-codex-antigravity-/releases)
+
 
 </div>
 
