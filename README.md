@@ -105,7 +105,7 @@ A complete guide to Google's agent-first development environment:
 
 ### 🎓 Supervisor
 
-- **[Mtgama](https://github.com/Mtgama)**
+- **[Mehrdad Hasanzade](https://github.com/Mtgama)**
 
 ### 📥 Download
 
@@ -211,7 +211,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ### 🎓 سوپروایزر
 
-- **[Mtgama](https://github.com/Mtgama)**
+- **[Mehrdad Hasanzade](https://github.com/Mtgama)**
 
 ### 📥 دانلود
 
